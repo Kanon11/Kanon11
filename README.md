@@ -8,4 +8,8 @@
 ##
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kanon11&" alt="Kanon11" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kanon11&label=Profile%20views&color=0e75b6&style=flat" alt="Kanon11" /> </p>
+
+[![](https://badges.pufler.dev/visits/shakilhasan/shakilhasan)](https://github.com/Kanon11)
+
 
