@@ -1,6 +1,6 @@
-### Hello! 👋 I'm Shakiul Anam Kanon
+### Hi I am Shakiul Anam Kanon
 
-I'm a Software Engineer based in Dhaka, Bangladesh. Currently I'm working as
+A Senior Software Engineer. Currently I'm working as
 - Back End Developer ( Node JS )
 
 ## Overview:
